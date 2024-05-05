@@ -1,10 +1,3 @@
-# Accountant-Website
-Determining workspace structure
-
-Deciding which workspace information to collect
-
-Gathering workspace info
-
 # Java-1-2-TheOpenU
 
 This project contains various Java classes demonstrating different concepts and functionalities. The project is structured into different modules, each focusing on a specific topic.
